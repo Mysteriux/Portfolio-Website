@@ -56,17 +56,10 @@ To run this project locally:
 
 ## 📸 Website Link
 
-You can view the live site here: [https://your-portfolio-url.com](https://your-portfolio-url.com)  
-*(Update this link after deployment)*
+You can view the live site here: [https://portfolio-website-five-mu-19.vercel.app/](https://portfolio-website-five-mu-19.vercel.app/)  
 
 ---
 
 ## 📝 License
 
 This project is open source and available under the [MIT License](LICENSE).
-
-```
-
----
-
-Let me know if you want me to include badges, deployment instructions (like for Vercel), or update links with your actual usernames!
